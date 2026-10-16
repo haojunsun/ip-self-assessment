@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人 IP 七维自测"
+  short_description: "逐项评估定位、产品、内容与信任，给出百分制评分和优先改进动作"
+  default_prompt: "使用 $ip-self-assessment 帮我做个人 IP 自测，一次问一个维度，最后按回答和证据给出评分。"
